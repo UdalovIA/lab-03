@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617025496 source:c:\users\u211-15\desktop\cs19-lab01-master\main.cpp
+	<iostream>
+	<vector>
+	<cassert>
+
+1617026598 source:l:\i курс\А-1-20\Удалов\lab03\main.cpp
+	<iostream>
+	<vector>
+	<cassert>
+
